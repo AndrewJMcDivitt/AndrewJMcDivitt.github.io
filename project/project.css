@@ -105,9 +105,7 @@ section {
 	margin-bottom: 2em;
 }
 
-/* =========================
-   EXPERIENCE
-========================= */
+/* EXPERIENCE */
 
 .job {
 	display: flex;
@@ -143,9 +141,7 @@ section {
 	margin: 0;
 }
 
-/* =========================
-   PROJECTS
-========================= */
+/* PROJECTS */
 
 .projects {
 	display: flex;
@@ -185,9 +181,7 @@ select {
 	padding: 0.5em;
 }
 
-/* =========================
-   ABOUT PAGE
-========================= */
+/* ABOUT PAGE */
 
 .about-layout {
 	display: flex;
